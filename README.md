@@ -1,4 +1,4 @@
-## CRaC 4 Demo
+## CRaC  Demo
 
 ### Short description
 The demo uses a scheduled task to execute the method ```checkForPrimes()``` every 5 seconds.
@@ -102,7 +102,7 @@ $ sudo apt install git
 ```
 Now clone this repository
 ```
-$ git clone https://github.com/HanSolo/crac4
+$ git clone https://github.com/artibhoir369/crac
 ```
 
 <br>
@@ -118,14 +118,13 @@ $ ./gradlew clean build
 #### Run the example
 Make sure you have the folder ```crac-files``` in your home folder, otherwise create it with
 ```
-$ cd ~
-$ mkdir crac-files
+$ mkdir /home/ubuntu/crac-files
 ```
 
 Open a shell (SHELL 1)
 ```
-cd /build/libs
-java -XX:CRaCCheckpointTo=/home/YOUR_USER_NAME/crac-files -jar ./crac4-17.0.0.jar
+cd build/libs
+java -XX:CRaCCheckpointTo=/home/ubuntu/crac-files -jar ./crac4-17.0.0.jar
 ```
 Now you should see something as follows on your screen:
 ```
