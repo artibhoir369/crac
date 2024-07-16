@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-By: root
+Created-By: 17-crac (N/A  17-crac+3-15)
+Build-Date: 2024-07.16
+Build-Time: 06:23:51.510+0000
+Build-Revision: b0f3cecf413b6fecd93bf2aed54b6ae8cccd1eb7
+Specification-Title: crac4
+Specification-Version: 17.0.0
+Implementation-Title: crac4
+Main-Class: eu.hansolo.crac4.Main
+
